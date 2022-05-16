@@ -10,6 +10,6 @@ public class JenkinTestController {
 
     @GetMapping("/get")
     public String get() {
-        return "Hello Java 11";
+        return "Hello Java Team";
     }
 }
